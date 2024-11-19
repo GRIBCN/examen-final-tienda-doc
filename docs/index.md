@@ -14,4 +14,4 @@ Bienvenido a la documentación del proyecto MVC Tienda.
     - [🎨 Estilos CSS y Bootstrap](estilos.md)
     - [📜 La Parte de JavaScript y AJAX](javascript.md)
 - [🔒 Proteger Aplicación y Directorios](#proteger_mvc)
-    - [🔐 El Uso del Fichero .env](proteger.md)
+    - [🔐 El Uso de los Ficheros .env](proteger.md)
